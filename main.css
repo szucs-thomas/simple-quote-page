@@ -17,8 +17,8 @@ body {
     width: 60%;
     letter-spacing: 2px;
     line-height: 30px;
-    position: absolute;
-    top: 15%; 
+    position: fixed;
+    top: 20%; 
 }
 
 #writer {
@@ -42,7 +42,7 @@ li {
 
 .language {
     height: 5%;
-    position: absolute;
+    position: fixed;
     bottom: 10%;
 }
 
